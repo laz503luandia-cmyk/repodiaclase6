@@ -16,4 +16,6 @@ rl.question('Por favor, ingresa un dato cualquiera: ', (datoIngresado) => {
     console.log('• El valor retornado por isNaN():', resultadoIsNaN);
 
     rl.close();
+
+    
 });
